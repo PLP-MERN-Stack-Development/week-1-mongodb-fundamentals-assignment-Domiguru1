@@ -1,6 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19742402&assignment_repo_type=AssignmentRepo)
 # MongoDB Fundamentals Assignment
-
+ Screenshoot of the Output in MongoDB
+ ![MongoDB Screenshot](<Screenshot 2025-06-10 135539.png>)
 This assignment focuses on learning MongoDB fundamentals including setup, CRUD operations, advanced queries, aggregation pipelines, and indexing.
 
 ## Assignment Overview
@@ -24,6 +25,7 @@ You will:
 
 - `Week1-Assignment.md`: Detailed assignment instructions
 - `insert_books.js`: Script to populate your MongoDB database with sample book data
+-  `queries.js` : MongoDB queries used
 
 ## Requirements
 
